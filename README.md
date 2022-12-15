@@ -1,2 +1,1 @@
-# monty
-Alx Project "C - Stacks, Queues - LIFO, FIFO"
+# Alx Project "C - Stacks, Queues - LIFO, FIFO"
